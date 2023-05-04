@@ -26,7 +26,7 @@
 	--accentcolor:					190,78,180;					/* default: 190,78,180			(RGB-format - blurple: 88,101,242 bd-blue: 58,113,193)							*/
 	
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;		/* font used in most places										*/
-	--textshadow:					255,255,255;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
+	--textshadow:					0,0,0;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
 	
 	--background: url("https://images.alphacoders.com/889/thumb-1920-889928.png");	/* background image				*/
